@@ -1,0 +1,5 @@
+{
+  "baseURL": "https://polza.ai/api/v1",
+  "api_key": "YOUR_API_KEY_HERE",
+  "model": "google/gemma-4-31b-it"
+}
