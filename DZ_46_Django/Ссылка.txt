@@ -1,0 +1,1 @@
+https://github.com/Evgen88Brown/django_blog.git
